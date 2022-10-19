@@ -1,0 +1,29 @@
+html {
+    width: 60em;
+    margin: 0 auto;
+}
+
+body {
+    margin: 0;
+}
+
+strong {
+    color: #FF3333;
+}
+
+span {
+  background-color: skyblue;
+}
+ul:empty {
+    padding: 10px;
+
+}
+list-style-type: space-counter;
+font-weight: normal;
+text-decoration: red wavy underline;
+padding: 10px 50px 20px;
+
+img {
+    max-width: 100%;
+    box-shadow: 0 19px 38px rgba(255, 99, 71, 0.4), 0 15px 12px rgba(255, 99, 71, 0.6);
+}
